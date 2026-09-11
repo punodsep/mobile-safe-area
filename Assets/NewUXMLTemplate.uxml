@@ -1,6 +1,3 @@
 <ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
-    <SafeAreaUIToolkit>
-        <ui:Button text="Button" style="width: 150px;"/>
-        <ui:Button text="Button" style="width: 110px; position: absolute; top: auto; left: auto; height: 50px; bottom: 38px; right: 0;"/>
-    </SafeAreaUIToolkit>
+    <SafeAreaUIToolkit/>
 </ui:UXML>
